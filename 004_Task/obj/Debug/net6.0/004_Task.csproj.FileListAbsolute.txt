@@ -1,0 +1,15 @@
+D:\geek brains\C#\seminar_2_1\004_Task\bin\Debug\net6.0\004_Task.exe
+D:\geek brains\C#\seminar_2_1\004_Task\bin\Debug\net6.0\004_Task.deps.json
+D:\geek brains\C#\seminar_2_1\004_Task\bin\Debug\net6.0\004_Task.runtimeconfig.json
+D:\geek brains\C#\seminar_2_1\004_Task\bin\Debug\net6.0\004_Task.dll
+D:\geek brains\C#\seminar_2_1\004_Task\bin\Debug\net6.0\004_Task.pdb
+D:\geek brains\C#\seminar_2_1\004_Task\obj\Debug\net6.0\004_Task.csproj.AssemblyReference.cache
+D:\geek brains\C#\seminar_2_1\004_Task\obj\Debug\net6.0\004_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\geek brains\C#\seminar_2_1\004_Task\obj\Debug\net6.0\004_Task.AssemblyInfoInputs.cache
+D:\geek brains\C#\seminar_2_1\004_Task\obj\Debug\net6.0\004_Task.AssemblyInfo.cs
+D:\geek brains\C#\seminar_2_1\004_Task\obj\Debug\net6.0\004_Task.csproj.CoreCompileInputs.cache
+D:\geek brains\C#\seminar_2_1\004_Task\obj\Debug\net6.0\004_Task.dll
+D:\geek brains\C#\seminar_2_1\004_Task\obj\Debug\net6.0\refint\004_Task.dll
+D:\geek brains\C#\seminar_2_1\004_Task\obj\Debug\net6.0\004_Task.pdb
+D:\geek brains\C#\seminar_2_1\004_Task\obj\Debug\net6.0\004_Task.genruntimeconfig.cache
+D:\geek brains\C#\seminar_2_1\004_Task\obj\Debug\net6.0\ref\004_Task.dll
